@@ -3,7 +3,7 @@ A point of sale system implemented in django.
 
 Setup
 Clone this project.
-git clone https://github.com/parthsharma2/django-pos.git
+git clone https://github.com/sakkhar/point_of_sale
 
 Move into the cloned project's directory.
 
